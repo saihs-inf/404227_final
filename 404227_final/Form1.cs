@@ -21,5 +21,10 @@ namespace _404227_final
         {
             MessageBox.Show("hello");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("show button1");
+        }
     }
 }
